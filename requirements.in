@@ -1,0 +1,4 @@
+pip-tools==1.9.0
+requests==2.18.3
+pytest==3.2.1
+allure-pytest==2.2.1b1
